@@ -14,3 +14,4 @@ Sorting Speed: A speed control slider allows users to adjust the speed of the so
 Stop Button: A stop button allows users to halt the sorting process at any time.
 Responsive Design: The layout adjusts to screen sizes, with a clean and styled user interface.
 The project demonstrates sorting concepts with an interactive and educational approach, making it easier to understand how sorting algorithms work through animation.
+http://127.0.0.1:5501/index.html
