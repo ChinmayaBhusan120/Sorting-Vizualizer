@@ -1,5 +1,5 @@
 # Sorting-Vizualizer
-his project is a Sorting Algorithm Visualizer that allows users to visualize how different sorting algorithms work. The key features of the project include:
+This project is a Sorting Algorithm Visualizer that allows users to visualize how different sorting algorithms work. The key features of the project include:
 
 Visual RepresentTation: It displays an array of bars where the height of each bar represents a value in the array.
 Sorting Algorithms: The visualizer supports multiple sorting algorithms such as:
